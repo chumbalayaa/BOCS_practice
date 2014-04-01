@@ -19,7 +19,6 @@
         - libfreetype6
         - libfreetype6-dev
         - zlib1g-dev
-        - mysql-client
         - python-dev
         - python-setuptools
         - python-imaging
